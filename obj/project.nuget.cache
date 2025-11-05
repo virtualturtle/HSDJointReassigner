@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgtAYZqK6Sg=",
+  "success": true,
+  "projectFilePath": "F:\\Programs\\KARphinFullPackage\\ROMs\\KARhacking\\HSDTool\\HSDTool\\HSDTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahm\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.10\\microsoft.win32.systemevents.9.0.10.nupkg.sha512",
+    "C:\\Users\\noahm\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\noahm\\.nuget\\packages\\system.drawing.common\\9.0.10\\system.drawing.common.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

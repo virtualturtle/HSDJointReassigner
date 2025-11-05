@@ -1,0 +1,3 @@
+[submodule "extern/HSDLib"]
+	path = extern/HSDLib
+	url = https://github.com/Ploaj/HSDLib.git
